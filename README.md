@@ -24,7 +24,7 @@ oss_2_mk.py /Users/elong/Desktop/war/gc_collector.jpg
 obj_name : gc_collector.jpg
 start upload to oss ....
 end upload to oss
-please CMD + v to paste markdown img grammar
+click `CMD + v` to paste markdown img grammar
 ```
 
 ## 代码
