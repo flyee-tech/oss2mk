@@ -92,5 +92,5 @@ if __name__ == "__main__":
 ```
 
 
+其中`accessKeyId`和`accessKeySecret`填自己阿里云OSS账户中的key。
 
-@copyright peierlong
